@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @MatBen19
-- 👀 I’m interested in programming and football <3
-- 🌱 I’m currently learning basics of coding and python
-- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me: matous.benedikt@gmail.com
 
 <!---
